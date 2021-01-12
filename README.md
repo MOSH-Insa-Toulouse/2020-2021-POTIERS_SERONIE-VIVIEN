@@ -14,6 +14,12 @@ The final structure is composed of :
 - [x] A LoRa RN-2483 microchip for the data transmission
 - [x] The Arduino Uno Shield that uses the same pin disposition as Uno board REV 3
 
+# Datasheets of main components
+
+- [x] Datasheet of the LoRa microchip
+- [ ] Datasheet of the home-made gas sensor
+- [x] Datasheet of the Arduino UNO board
+
 # To-Do List 
 
  - [x] Create KiCad project
