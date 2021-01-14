@@ -17,7 +17,7 @@ The final structure is composed of :
 # Datasheets of main components
 
 - [x] Datasheet of the LoRa microchip
-- [ ] Datasheet of the home-made gas sensor
+- [x] Datasheet of the home-made gas sensor
 - [x] Datasheet of the Arduino UNO board
 
 # To-Do List 
