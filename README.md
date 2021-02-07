@@ -28,3 +28,5 @@ The final structure is composed of :
  - [x] Design of the pcb
  - [x] Component placement
  - [x] Routing
+
+![Alt text](Pictures/Routing.png)
