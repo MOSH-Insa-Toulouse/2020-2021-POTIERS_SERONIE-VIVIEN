@@ -16,7 +16,7 @@ The final structure is composed of :
 
 ![Alt text](Pictures/Routing.png)
 ![Alt text](Pictures/Routing2.png)
-![Alt text](Pictures/3D\ view.png)
+![Alt text](Pictures/3D view.png)
 
 
 # Datasheets of main components
