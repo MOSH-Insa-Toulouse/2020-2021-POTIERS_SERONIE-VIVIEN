@@ -14,6 +14,11 @@ The final structure is composed of :
 - [x] A LoRa RN-2483 microchip for the data transmission
 - [x] The Arduino Uno Shield that uses the same pin disposition as Uno board REV 3
 
+![Alt text](Pictures/Routing.png)
+![Alt text](Pictures/Routing2.png)
+![Alt text](Pictures/3D\ view.png)
+
+
 # Datasheets of main components
 
 - [x] Datasheet of the LoRa microchip
@@ -29,4 +34,3 @@ The final structure is composed of :
  - [x] Component placement
  - [x] Routing
 
-![Alt text](Pictures/Routing.png)
